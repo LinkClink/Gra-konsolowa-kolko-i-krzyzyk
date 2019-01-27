@@ -1,0 +1,7 @@
+C:\Users\LinkClink\source\repos\OX\OX\bin\Debug\OX.exe.config
+C:\Users\LinkClink\source\repos\OX\OX\bin\Debug\OX.exe
+C:\Users\LinkClink\source\repos\OX\OX\bin\Debug\OX.pdb
+C:\Users\LinkClink\source\repos\OX\OX\obj\Debug\OX.csproj.CoreCompileInputs.cache
+C:\Users\LinkClink\source\repos\OX\OX\obj\Debug\OX.exe
+C:\Users\LinkClink\source\repos\OX\OX\obj\Debug\OX.pdb
+C:\Users\LinkClink\source\repos\OX\OX\obj\Debug\OX.csprojResolveAssemblyReference.cache
