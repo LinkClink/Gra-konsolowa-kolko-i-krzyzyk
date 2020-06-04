@@ -1,14 +1,14 @@
 # Gra-konsolowa-kolko-i-krzyzyk
 # TIC TAC TOE
 
-Gra jest realizowana w konsoli na jezyku c#
+* Gra jest realizowana w konsoli na jezyku c#
 Zawiera dwa tryby gry
 1. Dwa graczy.
 2. Gra z botem.
 
 język interfejsu PL
 
-The game is implemented in c# language
+* The game is implemented in c# language
 It contains two game modes
 1. Two players.
 2. Game with a bot.
