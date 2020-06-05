@@ -1,4 +1,3 @@
-# Gra-konsolowa-kolko-i-krzyzyk
 # TIC TAC TOE
 
 * Gra jest realizowana w konsoli na jezyku c#
